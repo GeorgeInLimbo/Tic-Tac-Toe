@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angulartictactoe052023": {
+      "hosting": {
+        "tictactoe": [
+          "angulartictactoe052023"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angulartictactoe052023"
+  }
+}
